@@ -151,3 +151,22 @@ nav{
     transform: scale(1.1);
     transition-duration: 1s;
 }
+.contactame{
+    background-color: #E76D83;
+    color: #FAF1E5;
+    padding: 50px;
+    margin: 20px;
+    border-radius: 25px;
+    font-size: larger;
+}
+.link{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.link:hover{
+    color: azure;
+}
